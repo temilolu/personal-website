@@ -2,6 +2,18 @@ layout: stacked
 style: light
 
 repositories:
+  - name: AnySearch
+    description: A simple web interface, that allows users Search for countries and display its full details, and gets an amount in EUR to be converted into local currency for each country.
+    web_url: https://dazzling-einstein-6ed7ba.netlify.com
+
+  - name: DuckFeed
+    description: The goal of the project is to create a web app that collects duck feeding partner in parks around the world.
+    web_url: https://duckfeedapps.herokuapp.com/
+
+  - name: Starwars
+    description: Working with Starwars API.
+    web_url: https://fervent-kepler-f69387.netlify.com/
+
   - name: QuickBuy
     description: Mini amazon for low volume internet sales. Built with React, Apollo GraphQL, GraphQL Yoga & Prisma
     web_url: https://github.com/temilolu/QuickBuy
@@ -14,17 +26,11 @@ repositories:
     description: Reverse engineering wordpress.com by building a similar full-stack version with Vue/firebase.
     web_url: https://github.com/temilolu/onepress
 
-  - name: OneFleet
-    description: Logistic management platform for asset tracking build in Angular
-    web_url: https://github.com/temilolu/onefleet
+  
 
-  - name: OneTelegram
-    description: Telegram web client built in react, redux and unit tested in jest
-    web_url: https://github.com/temilolu/onetelegram
+  
 
-  - name: OneTask
-    description: Organize your daily experience with Todist look alike
-    web_url: https://github.com/temilolu/onetask
+  
 
 plugins:
   - jekyll-octicons
